@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ExpandHeightTest.qml</file>
+        <file>ExpandView_2.qml</file>
+    </qresource>
+</RCC>
